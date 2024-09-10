@@ -449,3 +449,55 @@ git log
 clear
 history
 history -a
+history
+clear
+man history
+man history -k "-a"
+ll
+cat comando_dump_net.txt 
+grep "-a" man history
+man history | grep "-a"
+clear
+history
+clear
+$HOME/.bash_history
+cat $HOME/.bash_history 
+echo $HOME/.bash_history 
+cat $HOME/.bash_history >> Historial_comandos_Carlos_Mendez.txt”
+cat Historial_comandos_Carlos_Mendez.txt” 
+clear
+git add .
+git status
+git commit -m "add: Se agrego la lista de los comandos utilizados"
+clear
+git status
+git push
+cat Historial_comandos_Carlos_Mendez.txt” 
+cat Historial_comandos_Carlos_Mendez.txt >> Historial_comandos_Carlos_Mendez.txt 
+ls
+cat Historial_comandos_Carlos_Mendez.txt
+cat Historial_comandos_Carlos_Mendez.txt"
+clear
+git status
+clear
+cat Historial_comandos_Carlos_Mendez.txt
+rm Historial_comandos_Carlos_Mendez.txt
+ls
+cat Historial_comandos_Carlos_Mendez.txt” 
+cat Historial_comandos_Carlos_Mendez.txt” | >> Historial_comandos_Carlos_Mendez.txt
+cat Historial_comandos_Carlos_Mendez.txt 
+clear
+rm Historial_comandos_Carlos_Mendez.txt
+cat Historial_comandos_Carlos_Mendez.txt” 
+clear
+mv Historial_comandos_Carlos_Mendez.txt” Historial_comandos_Carlos_Mendez.txt
+ls
+cat Historial_comandos_Carlos_Mendez.txt” 
+cat Historial_comandos_Carlos_Mendez.txt
+clear
+ll
+git add .
+git commit -m "fix: Se ajusto la extension del archivo"
+git status
+clear
+history -a

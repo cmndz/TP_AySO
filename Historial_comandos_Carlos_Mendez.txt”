@@ -1,0 +1,451 @@
+clear
+man man
+cls
+clear
+man passwd
+ll
+man ascii
+pwd
+whoami
+id
+tree
+tree ls
+ls tree
+ll
+ls -l
+clear
+ls -l
+ll
+cd
+pwd
+cd
+cd ../
+clear
+pwd
+ll
+cd vagrant/
+clear
+whoiam
+whoami
+cd ../
+clear
+ll
+whoami
+clear
+cd vagrant/
+clear
+alias cls clear
+alias "cls" clear
+clear
+man alias
+man alia
+alias
+man alias
+man ali
+clear
+ll
+ls -l
+clear
+ll
+alias
+clear
+ls -l
+ll
+clear
+alias
+ll -alF
+cd “$HOME
+cd
+cd ../
+clear
+ls
+$HOME
+cd $HOME
+pwd
+clear
+whoaim
+whoami
+clear
+ls
+ls -alF
+ssh-keygen
+cd .ssh
+ls -alF
+cd ../
+cat $HOME/.ssh/*.pub
+clear
+cat $HOME/.ssh/*.pub
+clear
+cat $HOME/.ssh/*.pub
+clear
+ls $HOME/.ssh/
+ls -alF $HOME/.ssh/
+ssh-keygen
+ssh-keygen -t ed25519
+ls
+ls -alF
+ls -alF $HOME/.ssh/
+ls -alF $HOME/.ssh/id_ed25519.pub
+cat $HOME/.ssh/id_ed25519.pub
+man pbcopy
+man
+man pbcopy
+pbcopy
+clear
+ls
+ls -alF
+CD .ssh
+cd .ssh
+ls -alF
+man pbcopy
+man man
+pbcopy 
+echo id_ed25519.pub 
+echo cat id_ed25519.pub 
+cat id_ed25519.pub 
+pbcopy cat id_ed25519.pub 
+clear
+ls -alF
+ll
+clear
+ll
+cd .ssh
+ls -alF
+cat id_ed25519.pub 
+cd
+ls -alF
+mkdir repogit
+cd repogit
+ls -alF
+ls
+git clone git@github.com:cmndz/TP_AySO.git
+ls
+cd TP_AySO/
+clear
+ls -l
+ls
+ls -alF
+ca /etcos-release
+cat /etcos-release
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep home_url -i /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+echo "Usuario=$(whoami)" 
+clear
+git add .
+git status
+git config user.name
+git get user.name
+git --help
+git config --glob
+git status
+clear
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git config --global user.email "mendez.calfredo@gmail.com"
+git config --global user.name "cmndz"
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+clear
+git status
+cd sys
+cd $sys
+ls
+cat $SYS\cpuinfo
+$SYS\cpuinfo
+$SYS
+cd $SYS
+cd $SYS/cpuinfo
+ls $SYS
+ls -alF $SYS
+cd ./
+cd ../
+ls
+ls -alF
+cd $SYS
+cd $sys
+cat /proc/
+cat /proc
+cd /proc
+ls
+cd ../
+cls
+clear
+ll
+cd
+cd ../
+ls
+ll
+cd vagrant/
+ll
+cd $sys
+cd $SYS
+history
+clear
+cd proc
+ls
+ll
+cd ../
+cd ..\
+clear
+ll
+cd proc
+clear
+cd
+cd /proc
+ll
+clear
+ls
+cd
+ll
+cd proc
+cd \proc
+cd /proc
+cd /home
+clear
+cd /proc
+cpuinfo
+cat cpuinfo
+grep "model" cpuinfo
+grep "model" tail -n1 cpuinfo
+grep "model" cpuinfo tail -n1 
+grep "model" cpuinfo | tail -n1 
+grep "model name" cpuinfo | tail -n1 
+cd
+grep "model name" /proc/cpuinfo | tail -n1 
+ls
+cd repogit
+ls
+cd TP_AySO/
+LS
+ls
+grep "model name" /proc/cpuinfo | tail -n1 >> datos_usuario.txt 
+clear
+cat datos_usuario.txt 
+git add .
+git commit -m "feat: Añadiendo informacion del CPU"
+echo /etc/passwd
+cat /etc/passwd
+man grep
+grep -v "nologin" /etc/passwd
+grep "nologin" -v /etc/passwd
+clear
+grep "nologin" -v /etc/passwd
+clear
+grep "nologin" /etc/passwd
+clear
+grep "nologin" -v /etc/passwd
+grep /etc/passwd
+cat /etc/passwd
+clear
+grep "nologin" -v /etc/passwd
+grep "nologin" -v /etc/passwd | head 10
+man head
+grep "nologin" -v /etc/passwd | head 
+clear
+grep "nologin" -v /etc/passwd | head -n 
+grep "nologin" -v /etc/passwd | head -n 1
+grep "nologin" -v /etc/passwd | head -n 2
+grep "nologin" -v /etc/passwd | head
+clear
+grep "nologin" -v /etc/passwd | head
+grep "key" man sort 
+grep "sort" man sort 
+man sort 
+grep "nologin" -v /etc/passwd | head | sort -k 7
+clear
+grep "nologin" -v /etc/passwd | head 
+grep "nologin" -v /etc/passwd | head | sort -k 7
+man sort
+grep "nologin" -v /etc/passwd | head | sort -k -r 7
+grep "nologin" -v /etc/passwd | head | sort -r -k 7
+clear
+grep "nologin" -v /etc/passwd | head | sort -r -k 7
+grep "nologin" -v /etc/passwd | head | sort -k 7
+clear
+grep "nologin" -v /etc/passwd | head | sort -k 7 >> lista_ordenada.txt
+clear
+git add .
+git status
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+clear
+man man | grep "dump traffic"
+man man
+grep "dump traffic" man man
+grep "dump traffic" man
+clear
+grep man
+clear
+man grep
+grep "jaja" man man
+man man | grep -i "dump"
+man man | grep -i "grep"
+man man | grep -i "key"
+man man | grep -i "dump"
+man man | grep -i "traff"
+man man | grep -i "traffic"
+man man | grep -i "sort"
+man man | grep -i "key"
+man man
+man | grep -i "key"
+man man
+man -k "dump"
+man -k "dump-traffic"
+man -k "dump traffic"
+echo man -k "dump traffic" >> comando_dump_net.txt
+ll
+man -k "dump traffic" | >> comando_dump_net.txt
+cat comando_dump_net.txt 
+echo man -k "dump traffic" >> comando_dump_net.txt
+cat comando_dump_net.txt 
+echo 'man -k "dump traffic"' >> comando_dump_net.txt
+cat comando_dump_net.txt 
+echo 'man -k "dump traffic"' > comando_dump_net.txt
+
+man -k "dump traffic" | echo >> comando_dump_net.txt
+cat comando_dump_net.txt 
+echo 'man -k "dump traffic"' > comando_dump_net.txt
+cat comando_dump_net.txt 
+man -k "dump traffic" >> comando_dump_net.txt
+cat comando_dump_net.txt 
+clear
+git add .
+git commit -m "ADD: Comando para Capturar y analizar el tráfico de red"
+clear
+ls
+cat README.md 
+clear
+cat <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+cat <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF >> README.md
+
+
+
+cat README.md 
+clear
+echo <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF >> README.md
+
+
+
+
+EOF
+
+clear
+cat README.md 
+clear
+echo <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+>> README.md 
+cat README.md 
+echo <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+cat <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+clear
+cat <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+>> README.md 
+cat README.md 
+cat <<EOF
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+| cat >> README.md 
+clear
+cat <<EOF >> README.md
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+cat README.md 
+cat <<EOF >> README.md
+# TP_AySOAlumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+cat README.md 
+cat "#TP_AySO" > README.md 
+echo "#TP_AySO" > README.md 
+cat README.md 
+clear
+cat <<EOF >> README.md
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+cat README.md 
+git status
+git restore README.md
+git status
+clear
+cat README.md 
+cat <<EOF >> README.md 
+Alumno: Carlos Alfredo Mendez
+Division: 313
+Turno: Noche
+EOF
+
+cat README.md 
+git status
+git restore README.md
+clear
+cat <<EOF >> README.md 
+
+Alumno: Carlos Alfredo Mendez
+
+cat README.md 
+clear
+cat <<EOF >> README.md 
+
+Alumno: Carlos Alfredo Méndez
+División: 313
+Turno: Noche
+EOF
+
+cat README.md 
+git add .
+git commit -m "fix: Modificacion archivo README.md"
+git status
+git log
+clear
+git log
+clear
+history
+history -a
